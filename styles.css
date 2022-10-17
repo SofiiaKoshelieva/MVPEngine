@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(229, 207, 249);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.container{
+    padding: 20px 20px 20px 20px ;
+    display: flex;
+    flex-direction: column;
+}
+.form{
+    margin-bottom: 20px;
+}
+.your-span{
+    margin-bottom: 5px;
+   
+}
+.array{
+     overflow-x: scroll;
+    width: 400px;
+   
+    height: 30px;
+}
+.omitted{
+margin-top: 5px;
+}
